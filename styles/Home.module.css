@@ -1,5 +1,8 @@
 .container {
   padding: 0 2rem;
+
+  background: url("../public/static/background.png") no-repeat 50%;
+  background-size: cover;
 }
 
 .main {
